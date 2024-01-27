@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/pronotetodo-api/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsNotesApiDbConnectionStr_93F97BDEF9",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sqlserver-pronotetodo/databases/ProNoteToDoDatabase",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:NotesApiDbConnectionString",
+      "dynamicId": null
+    }
+  }
+}
