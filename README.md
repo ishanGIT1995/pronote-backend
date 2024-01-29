@@ -19,4 +19,4 @@ A FullStack Note(ToDo) 📝 application allows you to manage your notes efficien
 - **Material-UI:** The Material-UI library is employed for designing a modern and aesthetically pleasing user interface.
 - **C#:** Developed the application's backend.
 - **ASP.NET Core:** Used .NET 6 API to develop the API of the application.
-- **SQL Server:** To store data.
+- **SQL Server:** Storing and managing data .
